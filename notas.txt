@@ -1,0 +1,28 @@
+Ciclos de estructura
+while, for, do while
+
+
+1-- ciclo for o el ciclo para 
+*se aplica cuando el usuario sabe la cantidad de veces en el que se debe repetir un determinado codigo
+/defino el inicio de la condicion
+/defino la condicion
+/defino el incremento
+
+2--ciclo while o ciclo mientras
+*Se aplica cuando el usuario sabe la cantidad de veces que va a repetir y cuando no sabe la cantidad de veces a repetir, por defecto es un ciclo infinito
+/defino incio de condicion
+/defino la condicion
+/defino el incremento
+
+3-- ciclo do-while o repita
+*lo mismo que el ciclo while, pero distinto, garantiza que se ejecute al menos 1 ves el codigo,por defecto es un ciclo infinito
+/defino incio de condicion
+/defino la condicion
+/defino el incremento
+
+
+
+ciclos por metodos 
+dependientes de los arreglos (vectores)
+map,filter, find,foreach, some, for-of, for-in
+
